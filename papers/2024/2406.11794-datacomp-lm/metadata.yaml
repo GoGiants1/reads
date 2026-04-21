@@ -1,0 +1,19 @@
+title: "DataComp-LM: In search of the next generation of training sets for language models"
+arxiv_id: "2406.11794"
+version: "v4"
+year: 2024
+venue: "arXiv 2024"
+authors:
+  - Jeffrey Li et al.
+tags:
+  - pretraining-data
+  - data-curation
+  - benchmark
+  - datacomp-lm
+  - dclm
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2406.11794v4"
+  project: "https://www.datacomp.ai/dclm/"

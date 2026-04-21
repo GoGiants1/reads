@@ -1,0 +1,24 @@
+title: "GREATS: Online Selection of High-Quality Data for LLM Training in Every Iteration"
+arxiv_id: ""
+version: ""
+year: 2024
+venue: "NeurIPS 2024 Spotlight"
+authors:
+  - Jiachen T. Wang
+  - Tong Wu
+  - Dawn Song
+  - Prateek Mittal
+  - Ruoxi Jia
+tags:
+  - data-selection
+  - online-selection
+  - dynamic-selection
+  - taylor-approximation
+  - llm
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  openreview: "https://openreview.net/forum?id=232VcN8tSx"
+  neurips: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/ed165f2ff227cf36c7e3ef88957dadd9-Abstract-Conference.html"
+  code: "https://github.com/Jiachen-T-Wang/GREATS"

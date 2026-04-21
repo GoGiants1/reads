@@ -1,0 +1,22 @@
+title: "QuRating: Selecting High-Quality Data for Training Language Models"
+arxiv_id: "2402.09739"
+version: "v3"
+year: 2024
+venue: "ICML 2024"
+authors:
+  - Alexander Wettig
+  - Aatmik Gupta
+  - Saumya Malik
+  - Danqi Chen
+tags:
+  - data-selection
+  - pretraining
+  - data-quality
+  - llm-judge
+  - static-filtering
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2402.09739v3"
+  code: "https://github.com/princeton-nlp/QuRating"

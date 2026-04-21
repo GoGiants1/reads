@@ -1,0 +1,26 @@
+title: "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale"
+arxiv_id: "2406.17557"
+version: "v2"
+year: 2024
+venue: "arXiv 2024"
+authors:
+  - Guilherme Penedo
+  - Hynek Kydlíček
+  - Loubna Ben allal
+  - Anton Lozhkov
+  - Margaret Mitchell
+  - Colin Raffel
+  - Leandro Von Werra
+  - Thomas Wolf
+tags:
+  - pretraining-data
+  - data-curation
+  - fineweb
+  - fineweb-edu
+  - filtering
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2406.17557v2"
+  dataset: "https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu"

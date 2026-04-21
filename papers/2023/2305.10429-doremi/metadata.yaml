@@ -1,0 +1,29 @@
+title: "DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining"
+arxiv_id: "2305.10429"
+version: "v4"
+year: 2023
+venue: "NeurIPS 2023"
+authors:
+  - Sang Michael Xie
+  - Hieu Pham
+  - Xuanyi Dong
+  - Nan Du
+  - Hanxiao Liu
+  - Yifeng Lu
+  - Percy Liang
+  - Quoc V. Le
+  - Tengyu Ma
+  - Adams Wei Yu
+tags:
+  - data-mixture
+  - pretraining
+  - domain-reweighting
+  - proxy-model
+  - group-dro
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2305.10429v4"
+  neurips: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/dcba6be91359358c2355cd920da3fcbd-Abstract-Conference.html"
+  openreview: "https://openreview.net/forum?id=lXuByUeHhd"

@@ -1,0 +1,26 @@
+title: "RegMix: Data Mixture as Regression for Language Model Pre-training"
+arxiv_id: "2407.01492"
+version: "v2"
+year: 2024
+venue: "ICLR 2025"
+authors:
+  - Qian Liu
+  - Xiaosen Zheng
+  - Niklas Muennighoff
+  - Guangtao Zeng
+  - Longxu Dou
+  - Tianyu Pang
+  - Jing Jiang
+  - Min Lin
+tags:
+  - data-mixture
+  - pretraining
+  - regression
+  - proxy-models
+  - scaling
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2407.01492v2"
+  code: "https://github.com/sail-sg/regmix"

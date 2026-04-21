@@ -6,6 +6,13 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-21 | Group-Level Data Selection for Efficient Pretraining | data selection, group influence, pretraining | [note](papers/2025/2502.14709-group-mates/) |
+| 2026-04-21 | GREATS: Online Selection of High-Quality Data for LLM Training in Every Iteration | online data selection, dynamic selection, LLM | [note](papers/2024/wang-2024-greats/) |
+| 2026-04-21 | RegMix: Data Mixture as Regression for Language Model Pre-training | data mixture, regression, pretraining | [note](papers/2024/2407.01492-regmix/) |
+| 2026-04-21 | DataComp-LM: In search of the next generation of training sets for language models | pretraining data, benchmark, DCLM | [note](papers/2024/2406.11794-datacomp-lm/) |
+| 2026-04-21 | The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale | pretraining data, FineWeb, filtering | [note](papers/2024/2406.17557-fineweb/) |
+| 2026-04-21 | QuRating: Selecting High-Quality Data for Training Language Models | data selection, quality rating, static filtering | [note](papers/2024/2402.09739-qurating/) |
+| 2026-04-21 | DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining | data mixture, domain reweighting, pretraining | [note](papers/2023/2305.10429-doremi/) |
 | 2026-04-21 | OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration | dynamic data selection, optimizer-aware, pretraining | [note](papers/2026/2602.05400-opus/) |
 | 2026-04-21 | Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models | data selection, pretraining, quality metrics | [note](papers/2025/2504.14194-meta-rater/) |
 | 2026-04-21 | Robot Data Curation with Mutual Information Estimators | robotics, data curation, mutual information | [note](papers/2025/2502.08623-robot-mi-curation/) |

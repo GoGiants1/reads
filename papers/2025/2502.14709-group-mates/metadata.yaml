@@ -1,0 +1,25 @@
+title: "Group-Level Data Selection for Efficient Pretraining"
+arxiv_id: "2502.14709"
+version: "v2"
+year: 2025
+venue: "NeurIPS 2025"
+authors:
+  - Zichun Yu
+  - Fei Peng
+  - Jie Lei
+  - Arnold Overwijk
+  - Wen-tau Yih
+  - Chenyan Xiong
+tags:
+  - data-selection
+  - pretraining
+  - group-influence
+  - dynamic-selection
+  - mates
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2502.14709v2"
+  openreview: "https://openreview.net/forum?id=uX4dyc7Z5Z"
+  code: "https://github.com/facebookresearch/Group-MATES"
