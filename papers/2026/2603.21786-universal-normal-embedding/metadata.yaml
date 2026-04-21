@@ -1,0 +1,26 @@
+title: "The Universal Normal Embedding"
+arxiv_id: "2603.21786"
+version: "v1"
+year: 2026
+venue: "CVPR 2026"
+authors:
+  - Chen Tasker
+  - Roy Betser
+  - Eyal Gofer
+  - Meir Yossef Levi
+  - Guy Gilboa
+tags:
+  - representation-learning
+  - diffusion
+  - latent-space
+  - clip
+  - dino
+  - semantic-editing
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2603.21786v1"
+  alphaxiv: "https://www.alphaxiv.org/overview/2603.21786v1"
+  huggingface_paper: "https://huggingface.co/papers/2603.21786"
+  project: "https://rbetser.github.io/UNE/"
