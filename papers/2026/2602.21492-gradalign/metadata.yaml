@@ -1,0 +1,24 @@
+title: "GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning"
+arxiv_id: "2602.21492"
+version: "v1"
+year: 2026
+venue: "arXiv 2026"
+authors:
+  - Ningyuan Yang
+  - Weihua Du
+  - Weiwei Sun
+  - Sean Welleck
+  - Yiming Yang
+tags:
+  - data-selection
+  - reinforcement-learning
+  - gradient-alignment
+  - llm
+  - curriculum
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2602.21492v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2602.21492"
+  code: "https://github.com/StigLidu/GradAlign"

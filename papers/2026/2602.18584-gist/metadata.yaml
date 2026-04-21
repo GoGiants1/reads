@@ -1,0 +1,23 @@
+title: "GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry"
+arxiv_id: "2602.18584"
+version: "v1"
+year: 2026
+venue: "arXiv 2026"
+authors:
+  - Guanghui Min
+  - Tianhao Huang
+  - Ke Wan
+  - Chen Chen
+tags:
+  - data-selection
+  - targeted-instruction-tuning
+  - lora
+  - gradient-alignment
+  - optimization-geometry
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2602.18584v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2602.18584"
+  code: "https://github.com/GuanghuiMin/GIST"

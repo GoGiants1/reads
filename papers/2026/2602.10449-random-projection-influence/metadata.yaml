@@ -1,0 +1,22 @@
+title: "A Unified Theory of Random Projection for Influence Functions"
+arxiv_id: "2602.10449"
+version: "v2"
+year: 2026
+venue: "arXiv 2026"
+authors:
+  - Pingbang Hu
+  - Yuzheng Hu
+  - Jiaqi W. Ma
+  - Han Zhao
+tags:
+  - influence-functions
+  - random-projection
+  - data-attribution
+  - theory
+  - sketching
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2602.10449v2"
+  alphaxiv: "https://www.alphaxiv.org/abs/2602.10449"

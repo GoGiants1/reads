@@ -1,0 +1,22 @@
+title: "In-Run Data Shapley for Adam Optimizer"
+arxiv_id: "2602.00329"
+version: "v3"
+year: 2026
+venue: "DATA-FM Workshop @ ICLR 2026"
+authors:
+  - Meng Ding
+  - Zeqing Zhang
+  - Di Wang
+  - Lijie Hu
+tags:
+  - data-attribution
+  - shapley-value
+  - adam
+  - optimizer-aware
+  - in-run
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2602.00329v3"
+  alphaxiv: "https://www.alphaxiv.org/abs/2602.00329"

@@ -6,6 +6,10 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-21 | GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning | data selection, reinforcement learning, gradient alignment | [note](papers/2026/2602.21492-gradalign/) |
+| 2026-04-21 | GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry | targeted data selection, LoRA, optimization geometry | [note](papers/2026/2602.18584-gist/) |
+| 2026-04-21 | A Unified Theory of Random Projection for Influence Functions | influence functions, random projection, theory | [note](papers/2026/2602.10449-random-projection-influence/) |
+| 2026-04-21 | In-Run Data Shapley for Adam Optimizer | data attribution, Adam, optimizer-aware Shapley | [note](papers/2026/2602.00329-adam-in-run-shapley/) |
 | 2026-04-21 | Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts | data pruning, factual memorization, information theory | [note](papers/2026/2604.08519-cram-less-fit-more/) |
 | 2026-04-21 | Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability | reasoning SFT, data quality, optimization | [note](papers/2026/2604.06628-reasoning-sft-generalization/) |
 | 2026-04-21 | Adam's Law: Textual Frequency Law on Large Language Models | textual frequency, curriculum learning, fine-tuning | [note](papers/2026/2604.02176-adams-law/) |
