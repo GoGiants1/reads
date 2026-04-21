@@ -1,0 +1,26 @@
+title: "IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment"
+arxiv_id: "2505.12762"
+version: "v1"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Chenlin Ming
+  - Chendi Qu
+  - Mengzhang Cai
+  - Qizhi Pei
+  - Zhuoshi Pan
+  - Yu Li
+  - Xiaoming Duan
+  - Lijun Wu
+  - Conghui He
+tags:
+  - data-selection
+  - alignment
+  - data-mixture
+  - multi-capability
+  - llm
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2505.12762v1"

@@ -1,0 +1,21 @@
+title: "Improving Pretraining Data Using Perplexity Correlations"
+arxiv_id: "2409.05816"
+version: "v2"
+year: 2024
+venue: "ICLR 2025"
+authors:
+  - Tristan Thrush
+  - Christopher Potts
+  - Tatsunori Hashimoto
+tags:
+  - data-selection
+  - pretraining
+  - perplexity
+  - benchmark-correlation
+  - llm
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2409.05816v2"
+  code: "https://github.com/TristanThrush/perplexity-correlations"

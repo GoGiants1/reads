@@ -1,0 +1,31 @@
+title: "Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration"
+arxiv_id: "2410.08102"
+version: "v3"
+year: 2024
+venue: "ACL 2025"
+authors:
+  - Tianyi Bai
+  - Ling Yang
+  - Zhen Hao Wong
+  - Fupeng Sun
+  - Jiahui Peng
+  - Xinlin Zhuang
+  - Chi Zhang
+  - Lijun Wu
+  - Jiantao Qiu
+  - Wentao Zhang
+  - Binhang Yuan
+  - Conghui He
+tags:
+  - data-selection
+  - pretraining
+  - multi-actor
+  - dynamic-selection
+  - llm
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2410.08102v3"
+  acl: "https://aclanthology.org/2025.acl-long.466/"
+  code: "https://github.com/Relaxed-System-Lab/multi-actor-data-selection"

@@ -1,0 +1,30 @@
+title: "One-Shot Learning as Instruction Data Prospector for Large Language Models"
+arxiv_id: "2312.10302"
+version: "v4"
+year: 2023
+venue: "ACL 2024"
+authors:
+  - Yunshui Li
+  - Binyuan Hui
+  - Xiaobo Xia
+  - Jiaxi Yang
+  - Min Yang
+  - Lei Zhang
+  - Shuzheng Si
+  - Ling-Hao Chen
+  - Junhao Liu
+  - Tongliang Liu
+  - Fei Huang
+  - Yongbin Li
+tags:
+  - data-selection
+  - instruction-tuning
+  - one-shot-learning
+  - llm
+  - target-benchmark
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2312.10302v4"
+  acl: "https://aclanthology.org/2024.acl-long.252/"

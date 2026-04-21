@@ -1,0 +1,28 @@
+title: "Language Models Improve When Pretraining Data Matches Target Tasks"
+arxiv_id: "2507.12466"
+version: "v1"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - David Mizrahi
+  - Anders Boesen Lindbo Larsen
+  - Jesse Allardice
+  - Suzie Petryk
+  - Yuri Gorokhov
+  - Jeffrey Li
+  - Alex Fang
+  - Josh Gardner
+  - Tom Gunter
+  - Afshin Dehghan
+tags:
+  - data-selection
+  - pretraining
+  - benchmark-targeting
+  - scaling-laws
+  - decontamination
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2507.12466v1"
+  apple: "https://machinelearning.apple.com/research/pretraining-data-matches"

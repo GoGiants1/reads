@@ -1,0 +1,21 @@
+title: "DsDm: Model-Aware Dataset Selection with Datamodels"
+arxiv_id: "2401.12926"
+version: "v1"
+year: 2024
+venue: "ICML 2024 Spotlight"
+authors:
+  - Logan Engstrom
+  - Axel Feldmann
+  - Aleksander Madry
+tags:
+  - data-selection
+  - datamodels
+  - model-aware-selection
+  - llm
+  - target-tasks
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2401.12926v1"
+  openreview: "https://openreview.net/forum?id=GC8HkKeH8s"

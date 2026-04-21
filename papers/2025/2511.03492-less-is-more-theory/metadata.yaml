@@ -1,0 +1,21 @@
+title: "Why Less is More (Sometimes): A Theory of Data Curation"
+arxiv_id: "2511.03492"
+version: "v1"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Elvis Dohmatob
+  - Mohammad Pezeshki
+  - Reyhane Askari-Hemmat
+tags:
+  - data-curation
+  - theory
+  - scaling-laws
+  - less-is-more
+  - model-collapse
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2511.03492v1"
+  emergent_mind: "https://www.emergentmind.com/papers/2511.03492"

@@ -1,0 +1,29 @@
+title: "Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models"
+arxiv_id: "2504.14194"
+version: "v4"
+year: 2025
+venue: "ACL 2025 Best Theme Paper Award"
+authors:
+  - Xinlin Zhuang
+  - Jiahui Peng
+  - Ren Ma
+  - Yinfan Wang
+  - Tianyi Bai
+  - Xingjian Wei
+  - Jiantao Qiu
+  - Chi Zhang
+  - Ying Qian
+  - Conghui He
+tags:
+  - data-selection
+  - pretraining
+  - multi-dimensional-quality
+  - proxy-models
+  - meta-rater
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2504.14194v4"
+  code: "https://github.com/opendatalab/Meta-rater"
+  acl_awards: "https://2025.aclweb.org/program/awards/"

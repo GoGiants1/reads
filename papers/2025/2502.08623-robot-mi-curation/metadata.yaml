@@ -1,0 +1,29 @@
+title: "Robot Data Curation with Mutual Information Estimators"
+arxiv_id: "2502.08623"
+version: "v3"
+year: 2025
+venue: "RSS 2025"
+authors:
+  - Joey Hejna
+  - Suvir Mirchandani
+  - Ashwin Balakrishna
+  - Annie Xie
+  - Ayzaan Wahid
+  - Jonathan Tompson
+  - Pannag Sanketi
+  - Dhruv Shah
+  - Coline Devin
+  - Dorsa Sadigh
+tags:
+  - data-curation
+  - robotics
+  - imitation-learning
+  - mutual-information
+  - demonstration-quality
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2502.08623v3"
+  project: "https://jhejna.github.io/demonstration-info"
+  alphaxiv: "https://www.alphaxiv.org/abs/2502.08623"

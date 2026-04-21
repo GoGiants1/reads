@@ -6,6 +6,24 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-21 | Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models | data selection, pretraining, quality metrics | [note](papers/2025/2504.14194-meta-rater/) |
+| 2026-04-21 | Robot Data Curation with Mutual Information Estimators | robotics, data curation, mutual information | [note](papers/2025/2502.08623-robot-mi-curation/) |
+| 2026-04-21 | Why Less is More (Sometimes): A Theory of Data Curation | data curation, theory, scaling laws | [note](papers/2025/2511.03492-less-is-more-theory/) |
+| 2026-04-21 | DataRater: Meta-Learned Dataset Curation | data curation, meta-learning, meta-gradients | [note](papers/2025/2505.17895-datarater/) |
+| 2026-04-21 | IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment | data mixture, alignment, multi-capability | [note](papers/2025/2505.12762-ideal/) |
+| 2026-04-21 | Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration | data selection, pretraining, multi-actor | [note](papers/2024/2410.08102-multi-actor-collaboration/) |
+| 2026-04-21 | TiKMiX: Take Data Influence into Dynamic Mixture for Language Model Pre-training | dynamic data selection, pretraining, mixture | [note](papers/2025/2508.17677-tikmix/) |
+| 2026-04-21 | LLM Data Selection and Utilization via Dynamic Bi-level Optimization | dynamic data selection, bilevel optimization, LLM | [note](papers/2025/2507.16178-dynamic-bilevel-optimization/) |
+| 2026-04-21 | MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models | dynamic data selection, pretraining, influence | [note](papers/2024/2406.06046-mates/) |
+| 2026-04-21 | Concepts or Skills? Rethinking Instruction Selection for Multi-modal Models | multimodal data selection, concepts, skills | [note](papers/2025/2508.10339-concepts-skills/) |
+| 2026-04-21 | Task-Aware Data Selection via Proxy-Label Enhanced Distribution Matching for LLM Finetuning | task-aware data selection, proxy labels, distribution matching | [note](papers/2026/cheng-2026-tads/) |
+| 2026-04-21 | Train on Validation (ToV): Fast data selection with applications to fine-tuning | data selection, validation set, fine-tuning | [note](papers/2025/2510.00386-tov/) |
+| 2026-04-21 | Approximating Gradient-Based Influence for Scalable Instruction Data Selection | data selection, influence, instruction tuning | [note](papers/2025/gharehhasanloo-2025-approx-less/) |
+| 2026-04-21 | Improving Pretraining Data Using Perplexity Correlations | data selection, pretraining, perplexity correlation | [note](papers/2024/2409.05816-perplexity-correlations/) |
+| 2026-04-21 | TAROT: Targeted Data Selection via Optimal Transport | targeted data selection, optimal transport, distribution matching | [note](papers/2024/2412.00420-tarot/) |
+| 2026-04-21 | Language Models Improve When Pretraining Data Matches Target Tasks | data selection, benchmark targeting, pretraining | [note](papers/2025/2507.12466-betr/) |
+| 2026-04-21 | DsDm: Model-Aware Dataset Selection with Datamodels | data selection, datamodels, target tasks | [note](papers/2024/2401.12926-dsdm/) |
+| 2026-04-21 | One-Shot Learning as Instruction Data Prospector for Large Language Models | data selection, instruction tuning, one-shot learning | [note](papers/2023/2312.10302-nuggets/) |
 | 2026-04-21 | Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models | multimodal data selection, capability analysis, visual instruction tuning | [note](papers/2025/2510.00040-cadc/) |
 | 2026-04-21 | CoIDO: Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization | multimodal data selection, importance-diversity, visual instruction tuning | [note](papers/2025/2510.17847-coido/) |
 | 2026-04-21 | Data Selection Matters: Towards Robust Instruction Tuning of Large Multimodal Models | multimodal data selection, robustness, visual instruction tuning | [note](papers/2025/yang-2025-data-selection-matters/) |

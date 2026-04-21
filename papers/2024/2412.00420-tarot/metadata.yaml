@@ -1,0 +1,24 @@
+title: "TAROT: Targeted Data Selection via Optimal Transport"
+arxiv_id: "2412.00420"
+version: "v2"
+year: 2024
+venue: "ICML 2025"
+authors:
+  - Lan Feng
+  - Fan Nie
+  - Yuejiang Liu
+  - Alexandre Alahi
+tags:
+  - data-selection
+  - targeted-selection
+  - optimal-transport
+  - distribution-matching
+  - influence
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2412.00420v2"
+  pmlr: "https://proceedings.mlr.press/v267/feng25l.html"
+  openreview: "https://openreview.net/forum?id=EznrK7QWgK"
+  code: "https://github.com/vita-epfl/TAROT"

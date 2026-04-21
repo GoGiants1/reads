@@ -1,0 +1,26 @@
+title: "Task-Aware Data Selection via Proxy-Label Enhanced Distribution Matching for LLM Finetuning"
+arxiv_id: ""
+version: ""
+year: 2026
+venue: "ICLR 2026"
+authors:
+  - Hao Cheng
+  - Rui Zhang
+  - Ling Li
+  - Na Di
+  - Jiaheng Wei
+  - Zhaowei Zhu
+  - Bo Han
+tags:
+  - data-selection
+  - task-aware-selection
+  - distribution-matching
+  - proxy-labels
+  - llm-finetuning
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  openreview: "https://openreview.net/forum?id=R40WoYbYab"
+  iclr: "https://iclr.cc/virtual/2026/poster/10009535"
+  code: "https://github.com/tmlr-group/TADS"

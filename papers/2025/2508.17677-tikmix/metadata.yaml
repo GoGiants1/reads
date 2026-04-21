@@ -1,0 +1,26 @@
+title: "TiKMiX: Take Data Influence into Dynamic Mixture for Language Model Pre-training"
+arxiv_id: "2508.17677"
+version: "v1"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Yifan Wang
+  - Binbin Liu
+  - Fengze Liu
+  - Yuanfan Guo
+  - Jiyao Deng
+  - Xuecheng Wu
+  - Weidong Zhou
+  - Xiaohuan Zhou
+  - Taifeng Wang
+tags:
+  - data-selection
+  - pretraining
+  - dynamic-mixture
+  - data-influence
+  - semi-offline
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2508.17677v1"

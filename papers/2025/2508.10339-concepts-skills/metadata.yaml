@@ -1,0 +1,22 @@
+title: "Concepts or Skills? Rethinking Instruction Selection for Multi-modal Models"
+arxiv_id: "2508.10339"
+version: "v1"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Andrew Bai
+  - Justin Cui
+  - Ruochen Wang
+  - Cho-Jui Hsieh
+tags:
+  - multimodal-data-selection
+  - instruction-selection
+  - concepts
+  - skills
+  - visual-instruction-tuning
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2508.10339v1"
+  openreview: "https://openreview.net/forum?id=yB09CcjoII"

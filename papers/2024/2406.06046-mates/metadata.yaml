@@ -1,0 +1,22 @@
+title: "MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models"
+arxiv_id: "2406.06046"
+version: "v2"
+year: 2024
+venue: "NeurIPS 2024"
+authors:
+  - Zichun Yu
+  - Spandan Das
+  - Chenyan Xiong
+tags:
+  - data-selection
+  - pretraining
+  - dynamic-selection
+  - data-influence
+  - model-aware
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2406.06046v2"
+  neurips: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c4bec0d2fd217e6c2c3eafeced432582-Abstract-Conference.html"
+  code: "https://github.com/cxcscmu/MATES"

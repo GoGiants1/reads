@@ -1,0 +1,31 @@
+title: "DataRater: Meta-Learned Dataset Curation"
+arxiv_id: "2505.17895"
+version: "v2"
+year: 2025
+venue: "NeurIPS 2025"
+authors:
+  - Dan A. Calian
+  - Gregory Farquhar
+  - Iurii Kemaev
+  - Luisa M. Zintgraf
+  - Matteo Hessel
+  - Jeremy Shar
+  - Junhyuk Oh
+  - András György
+  - Tom Schaul
+  - Jeffrey Dean
+  - Hado van Hasselt
+  - David Silver
+tags:
+  - data-curation
+  - meta-learning
+  - meta-gradients
+  - foundation-models
+  - data-selection
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2505.17895v2"
+  alphaxiv: "https://www.alphaxiv.org/abs/2505.17895"
+  neurips: "https://neurips.cc/virtual/2025/papers.html?filter=title"

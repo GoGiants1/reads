@@ -1,0 +1,21 @@
+title: "Train on Validation (ToV): Fast data selection with applications to fine-tuning"
+arxiv_id: "2510.00386"
+version: "v1"
+year: 2025
+venue: "ICLR 2026"
+authors:
+  - Ayush Jain
+  - Andrea Montanari
+  - Eren Sasoglu
+tags:
+  - data-selection
+  - fine-tuning
+  - validation-set
+  - influence
+  - instruction-tuning
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2510.00386v1"
+  openreview: "https://openreview.net/forum?id=fWHd3yYicX"

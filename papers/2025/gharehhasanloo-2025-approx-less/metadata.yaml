@@ -1,0 +1,22 @@
+title: "Approximating Gradient-Based Influence for Scalable Instruction Data Selection"
+arxiv_id: ""
+version: ""
+year: 2025
+venue: "CIKM 2025"
+authors:
+  - Mohammad Gharehhasanloo
+  - Yueting Chen
+  - Nick Koudas
+  - Xiao-Hui Yu
+tags:
+  - data-selection
+  - instruction-tuning
+  - influence
+  - gradient-approximation
+  - approx-less
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  doi: "https://doi.org/10.1145/3746252.3760808"
+  acm_toc: "https://www.sigweb.hosting.acm.org/toc/cikm25.html"
