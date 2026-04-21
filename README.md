@@ -6,6 +6,7 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-21 | ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning | multimodal data selection, visual instruction tuning, training-free | [note](papers/2026/2602.11636-scalselect/) |
 | 2026-04-21 | The Universal Normal Embedding | representation learning, diffusion, latent space | [note](papers/2026/2603.21786-universal-normal-embedding/) |
 
 ## Structure

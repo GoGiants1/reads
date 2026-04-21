@@ -1,0 +1,28 @@
+title: "ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning"
+arxiv_id: "2602.11636"
+version: "v1"
+year: 2026
+venue: "arXiv 2026"
+authors:
+  - Changti Wu
+  - Jiahuai Mao
+  - Yuzhuo Miao
+  - Shijie Lian
+  - Bin Yu
+  - Xiaopeng Lin
+  - Cong Huang
+  - Lei Zhang
+  - Kai Chen
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - vlm
+  - training-free
+  - subspace-selection
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2602.11636v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2602.11636"
+  code: "https://github.com/ChangtiWu/ScalSelect"
