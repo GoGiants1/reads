@@ -1,0 +1,28 @@
+title: "Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt"
+arxiv_id: "2206.07137"
+version: "v3"
+year: 2022
+venue: "ICML 2022"
+authors:
+  - Soren Mindermann
+  - Jan Brauner
+  - Muhammed Razzak
+  - Mrinank Sharma
+  - Andreas Kirsch
+  - Winnie Xu
+  - Benedikt Hoeltgen
+  - Aidan N. Gomez
+  - Adrien Morisot
+  - Sebastian Farquhar
+  - Yarin Gal
+tags:
+  - data-selection
+  - rho-loss
+  - prioritized-training
+  - curriculum
+  - active-learning
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2206.07137v3"

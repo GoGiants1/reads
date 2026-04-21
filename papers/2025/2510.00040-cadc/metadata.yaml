@@ -1,0 +1,22 @@
+title: "Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models"
+arxiv_id: "2510.00040"
+version: "v2"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Junjie Li
+  - Ziao Wang
+  - Jianghong Ma
+  - Xiaofeng Zhang
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - vlm
+  - capability-analysis
+  - curriculum
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2510.00040v2"
+  alphaxiv: "https://www.alphaxiv.org/abs/2510.00040"

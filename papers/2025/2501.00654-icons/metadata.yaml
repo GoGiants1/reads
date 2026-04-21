@@ -1,0 +1,24 @@
+title: "ICONS: Influence Consensus for Vision-Language Data Selection"
+arxiv_id: "2501.00654"
+version: "v4"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Xindi Wu
+  - Mengzhou Xia
+  - Rulin Shao
+  - Zhiwei Deng
+  - Pang Wei Koh
+  - Olga Russakovsky
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - influence
+  - gradients
+  - icons
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2501.00654v4"
+  code: "https://github.com/princetonvisualai/icons"

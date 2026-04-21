@@ -1,0 +1,28 @@
+title: "Your Vision-Language Model Itself Is a Strong Filter: Towards High-Quality Instruction Tuning with Data Selection"
+arxiv_id: "2402.12501"
+version: "v1"
+year: 2024
+venue: "ACL Findings 2024"
+authors:
+  - Ruibo Chen
+  - Yihan Wu
+  - Lichang Chen
+  - Guodong Liu
+  - Qi He
+  - Tianyi Xiong
+  - Chenxi Liu
+  - Junfeng Guo
+  - Heng Huang
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - self-filter
+  - difficulty
+  - diversity
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2402.12501v1"
+  acl: "https://aclanthology.org/2024.findings-acl.247/"
+  dblp: "https://dblp.org/rec/conf/acl/ChenWCLHXLGH24"

@@ -1,0 +1,21 @@
+title: "Concept-skill Transferability-based Data Selection for Large Vision-Language Models"
+arxiv_id: "2406.10995"
+version: "v2"
+year: 2024
+venue: "EMNLP 2024"
+authors:
+  - Jaewoo Lee
+  - Boyang Li
+  - Sung Ju Hwang
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - vlm
+  - coincide
+  - transferability
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2406.10995v2"
+  code: "https://github.com/GJWLee/COINCIDE_code"

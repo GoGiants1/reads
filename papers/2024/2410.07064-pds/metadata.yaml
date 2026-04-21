@@ -1,0 +1,25 @@
+title: "Data Selection via Optimal Control for Language Models"
+arxiv_id: "2410.07064"
+version: "v2"
+year: 2024
+venue: "ICLR 2025 Oral"
+authors:
+  - Yuxian Gu
+  - Li Dong
+  - Hongning Wang
+  - Yaru Hao
+  - Qingxiu Dong
+  - Furu Wei
+  - Minlie Huang
+tags:
+  - data-selection
+  - language-models
+  - optimal-control
+  - pds
+  - pretraining
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2410.07064v2"
+  code: "https://github.com/microsoft/LMOps/tree/main/data_selection"

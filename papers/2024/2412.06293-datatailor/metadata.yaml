@@ -1,0 +1,28 @@
+title: "Mastering Collaborative Multi-modal Data Selection: A Focus on Informativeness, Uniqueness, and Representativeness"
+arxiv_id: "2412.06293"
+version: "v2"
+year: 2024
+venue: "ICCV 2025 Highlight"
+authors:
+  - Qifan Yu
+  - Zhebei Shen
+  - Zhongqi Yue
+  - Yang Wu
+  - Bosheng Qin
+  - Wenqiao Zhang
+  - Yunfei Li
+  - Juncheng Li
+  - Siliang Tang
+  - Yueting Zhuang
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - datatailor
+  - informativeness
+  - diversity
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2412.06293v2"
+  code: "https://github.com/Yuqifan1117/DataTailor"

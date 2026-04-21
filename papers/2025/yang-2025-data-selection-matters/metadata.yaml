@@ -1,0 +1,22 @@
+title: "Data Selection Matters: Towards Robust Instruction Tuning of Large Multimodal Models"
+arxiv_id: ""
+version: ""
+year: 2025
+venue: "NeurIPS 2025"
+authors:
+  - Xu Yang
+  - Chen Liu
+  - Ying Wei
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - robustness
+  - vlm
+  - ards
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  openreview: "https://openreview.net/forum?id=oLJMsGMfqr"
+  neurips: "https://neurips.cc/virtual/2025/poster/116045"
+  code: "https://github.com/xyang583/ARDS"

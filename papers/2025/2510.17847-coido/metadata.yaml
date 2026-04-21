@@ -1,0 +1,26 @@
+title: "CoIDO: Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization"
+arxiv_id: "2510.17847"
+version: "v1"
+year: 2025
+venue: "NeurIPS 2025"
+authors:
+  - Yichen Yan
+  - Ming Zhong
+  - Qi Zhu
+  - Xiaoling Gu
+  - Jinpeng Chen
+  - Huan Li
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - vlm
+  - importance-diversity
+  - scorer
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2510.17847v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2510.17847"
+  openreview: "https://openreview.net/forum?id=pXXKKBx8G0"
+  code: "https://github.com/SuDIS-ZJU/CoIDO"

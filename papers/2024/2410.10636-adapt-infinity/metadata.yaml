@@ -1,0 +1,23 @@
+title: "Adapt-infinity: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection"
+arxiv_id: "2410.10636"
+version: "v2"
+year: 2024
+venue: "ICLR 2025"
+authors:
+  - Adyasha Maharana
+  - Jaehong Yoon
+  - Tianlong Chen
+  - Mohit Bansal
+tags:
+  - multimodal-data-selection
+  - continual-learning
+  - visual-instruction-tuning
+  - online
+  - dynamic-selection
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2410.10636v2"
+  iclr: "https://proceedings.iclr.cc/paper_files/paper/2025/hash/a6610efd6c767f63343a4ab28505212e-Abstract-Conference.html"
+  code: "https://github.com/adymaharana/adapt-inf"

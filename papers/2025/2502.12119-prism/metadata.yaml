@@ -1,0 +1,32 @@
+title: "PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection"
+arxiv_id: "2502.12119"
+version: "v3"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Jinhe Bi
+  - Aniri
+  - Yifan Wang
+  - Danqi Yan
+  - Wenke Huang
+  - Zengjie Jin
+  - Xiaowen Ma
+  - Sikuan Yan
+  - Artur Hecker
+  - Mang Ye
+  - Xun Xiao
+  - Hinrich Schuetze
+  - Volker Tresp
+  - Yunpu Ma
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - prism
+  - training-free
+  - anisotropy
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2502.12119v3"
+  code: "https://github.com/bibisbar/PRISM"

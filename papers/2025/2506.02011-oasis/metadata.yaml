@@ -1,0 +1,22 @@
+title: "OASIS: Online Sample Selection for Continual Visual Instruction Tuning"
+arxiv_id: "2506.02011"
+version: "v2"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Minjae Lee
+  - Minhyuk Seo
+  - Tingyu Qu
+  - Tinne Tuytelaars
+  - Jonghyun Choi
+tags:
+  - multimodal-data-selection
+  - continual-learning
+  - visual-instruction-tuning
+  - online-selection
+  - oasis
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2506.02011v2"

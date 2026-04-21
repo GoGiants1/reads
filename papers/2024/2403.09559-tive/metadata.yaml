@@ -1,0 +1,23 @@
+title: "Less is More: High-value Data Selection for Visual Instruction Tuning"
+arxiv_id: "2403.09559"
+version: "v4"
+year: 2024
+venue: "arXiv 2024"
+authors:
+  - Zikang Liu
+  - Kun Zhou
+  - Wayne Xin Zhao
+  - Dawei Gao
+  - Yaliang Li
+  - Ji-Rong Wen
+tags:
+  - multimodal-data-selection
+  - visual-instruction-tuning
+  - tive
+  - influence
+  - task-difficulty
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2403.09559v4"

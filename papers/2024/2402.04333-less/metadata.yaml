@@ -1,0 +1,23 @@
+title: "LESS: Selecting Influential Data for Targeted Instruction Tuning"
+arxiv_id: "2402.04333"
+version: "v3"
+year: 2024
+venue: "ICML 2024"
+authors:
+  - Mengzhou Xia
+  - Sadhika Malladi
+  - Suchin Gururangan
+  - Sanjeev Arora
+  - Danqi Chen
+tags:
+  - data-selection
+  - instruction-tuning
+  - llm
+  - influence
+  - gradients
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2402.04333v3"
+  code: "https://github.com/princeton-nlp/LESS"
