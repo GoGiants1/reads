@@ -22,4 +22,5 @@ language: ko
 status: summarized
 links:
   arxiv: "https://arxiv.org/abs/2410.07064v2"
+  alphaxiv: "https://www.alphaxiv.org/abs/2410.07064"
   code: "https://github.com/microsoft/LMOps/tree/main/data_selection"

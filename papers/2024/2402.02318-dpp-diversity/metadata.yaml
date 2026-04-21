@@ -1,0 +1,25 @@
+title: "Diversity Measurement and Subset Selection for Instruction Tuning Datasets"
+arxiv_id: "2402.02318"
+version: "v1"
+year: 2024
+venue: "arXiv 2024"
+authors:
+  - Peiqi Wang
+  - Yikang Shen
+  - Zhen Guo
+  - Matthew Stallone
+  - Yoon Kim
+  - Polina Golland
+  - Rameswar Panda
+tags:
+  - data-selection
+  - instruction-tuning
+  - diversity
+  - dpp
+  - log-determinant
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2402.02318v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2402.02318"

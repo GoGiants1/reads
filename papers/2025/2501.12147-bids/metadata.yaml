@@ -1,0 +1,22 @@
+title: "Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities"
+arxiv_id: "2501.12147"
+version: "v1"
+year: 2025
+venue: "arXiv 2025"
+authors:
+  - Qirun Dai
+  - Dylan Zhang
+  - Jiaqi W. Ma
+  - Hao Peng
+tags:
+  - data-selection
+  - instruction-tuning
+  - influence
+  - balanced-learning
+  - bids
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2501.12147v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2501.12147"

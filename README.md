@@ -6,6 +6,8 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-21 | Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities | data selection, influence, balanced learning | [note](papers/2025/2501.12147-bids/) |
+| 2026-04-21 | Diversity Measurement and Subset Selection for Instruction Tuning Datasets | data selection, diversity, DPP | [note](papers/2024/2402.02318-dpp-diversity/) |
 | 2026-04-21 | GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning | data selection, reinforcement learning, gradient alignment | [note](papers/2026/2602.21492-gradalign/) |
 | 2026-04-21 | GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry | targeted data selection, LoRA, optimization geometry | [note](papers/2026/2602.18584-gist/) |
 | 2026-04-21 | A Unified Theory of Random Projection for Influence Functions | influence functions, random projection, theory | [note](papers/2026/2602.10449-random-projection-influence/) |
