@@ -126,6 +126,8 @@ Before committing, check:
 
 ## Preferred Workflow
 
+For batch additions or related-paper sweeps, first check `WORKFLOW.md` for duplicate checks, source fallback rules, and comparison axes.
+
 For a new arXiv paper:
 
 1. Extract the bare arXiv ID without version suffix.

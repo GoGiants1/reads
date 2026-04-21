@@ -67,3 +67,5 @@ papers/{year}/{arxiv-id}-{short-slug}/metadata.yaml
 ```
 
 Each paper directory keeps the main note as `README.md` so GitHub renders it automatically when browsing the folder.
+
+See [WORKFLOW.md](WORKFLOW.md) for the reusable paper-intake workflow, source fallback rules, and data-selection comparison axes.
