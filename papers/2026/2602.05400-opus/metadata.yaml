@@ -1,0 +1,30 @@
+title: "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration"
+arxiv_id: "2602.05400"
+version: "v2"
+year: 2026
+venue: "arXiv 2026"
+authors:
+  - Shaobo Wang
+  - Xuan Ouyang
+  - Tianyi Xu
+  - Yuzheng Hu
+  - Jialin Liu
+  - Guo Chen
+  - Tianyu Zhang
+  - Junhao Zheng
+  - Kexin Yang
+  - Xingzhang Ren
+  - Dayiheng Liu
+  - Linfeng Zhang
+tags:
+  - data-selection
+  - pretraining
+  - dynamic-selection
+  - optimizer-aware
+  - llm
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2602.05400v2"
+  alphaxiv: "https://www.alphaxiv.org/abs/2602.05400"

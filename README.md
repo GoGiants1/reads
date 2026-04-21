@@ -6,6 +6,7 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-21 | OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration | dynamic data selection, optimizer-aware, pretraining | [note](papers/2026/2602.05400-opus/) |
 | 2026-04-21 | Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models | data selection, pretraining, quality metrics | [note](papers/2025/2504.14194-meta-rater/) |
 | 2026-04-21 | Robot Data Curation with Mutual Information Estimators | robotics, data curation, mutual information | [note](papers/2025/2502.08623-robot-mi-curation/) |
 | 2026-04-21 | Why Less is More (Sometimes): A Theory of Data Curation | data curation, theory, scaling laws | [note](papers/2025/2511.03492-less-is-more-theory/) |
