@@ -1,0 +1,29 @@
+title: "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability"
+arxiv_id: "2604.06628"
+version: "v1"
+year: 2026
+venue: "arXiv 2026"
+authors:
+  - Qihan Ren
+  - Peng Wang
+  - Ruikun Cai
+  - Shuai Shao
+  - Dadi Guo
+  - Yuejin Xie
+  - Yafu Li
+  - Quanshi Zhang
+  - Xia Hu
+  - Jing Shao
+  - Dongrui Liu
+tags:
+  - supervised-finetuning
+  - reasoning
+  - generalization
+  - chain-of-thought
+  - data-quality
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2604.06628v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2604.06628"

@@ -6,6 +6,9 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-21 | Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts | data pruning, factual memorization, information theory | [note](papers/2026/2604.08519-cram-less-fit-more/) |
+| 2026-04-21 | Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability | reasoning SFT, data quality, optimization | [note](papers/2026/2604.06628-reasoning-sft-generalization/) |
+| 2026-04-21 | Adam's Law: Textual Frequency Law on Large Language Models | textual frequency, curriculum learning, fine-tuning | [note](papers/2026/2604.02176-adams-law/) |
 | 2026-04-21 | Group-Level Data Selection for Efficient Pretraining | data selection, group influence, pretraining | [note](papers/2025/2502.14709-group-mates/) |
 | 2026-04-21 | GREATS: Online Selection of High-Quality Data for LLM Training in Every Iteration | online data selection, dynamic selection, LLM | [note](papers/2024/wang-2024-greats/) |
 | 2026-04-21 | RegMix: Data Mixture as Regression for Language Model Pre-training | data mixture, regression, pretraining | [note](papers/2024/2407.01492-regmix/) |

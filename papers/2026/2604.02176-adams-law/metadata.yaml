@@ -1,0 +1,26 @@
+title: "Adam's Law: Textual Frequency Law on Large Language Models"
+arxiv_id: "2604.02176"
+version: "v2"
+year: 2026
+venue: "ACL 2026 Main Conference"
+authors:
+  - Hongyuan Adam Lu
+  - Z. L.
+  - Victor Wei
+  - Zefan Zhang
+  - Zhao Hong
+  - Qiqi Xiang
+  - Bowen Cao
+  - Wai Lam
+tags:
+  - textual-frequency
+  - data-selection
+  - curriculum-learning
+  - fine-tuning
+  - prompting
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2604.02176v2"
+  alphaxiv: "https://www.alphaxiv.org/abs/2604.02176"

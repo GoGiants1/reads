@@ -1,0 +1,21 @@
+title: "Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts"
+arxiv_id: "2604.08519"
+version: "v1"
+year: 2026
+venue: "arXiv 2026"
+authors:
+  - Jiayuan Ye
+  - Vitaly Feldman
+  - Kunal Talwar
+tags:
+  - data-selection
+  - data-pruning
+  - factual-memorization
+  - information-theory
+  - llm
+read_date: "2026-04-21"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2604.08519v1"
+  alphaxiv: "https://www.alphaxiv.org/abs/2604.08519"
