@@ -1,0 +1,27 @@
+title: "AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning"
+arxiv_id: "2601.18631"
+version: "v2"
+year: 2026
+venue: "ICLR 2026"
+authors:
+  - Mingyang Song
+  - Haoyu Sun
+  - Jiawei Gu
+  - Linjie Li
+  - Ranjay Krishna
+  - Yu Cheng
+tags:
+  - mllm
+  - tool-use
+  - reinforcement-learning
+  - trajectory-data
+  - visual-reasoning
+  - data-curation
+read_date: "2026-04-26"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2601.18631v2"
+  openreview: "https://openreview.net/forum?id=nUGPEmQ2ut"
+  alphaxiv: "https://www.alphaxiv.org/overview/2601.18631"
+  project: "https://adareasoner.github.io/"

@@ -6,6 +6,12 @@ Personal paper reading notes and discussion summaries.
 
 | Date | Paper | Topics | Note |
 |---|---|---|---|
+| 2026-04-26 | DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning | MLLM, RL, active perception, data curation | [note](papers/2025/2505.14362-deepeyes/) |
+| 2026-04-26 | Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering | MLLM, VQA, human uncertainty, data selection | [note](papers/2025/2510.11295-hadola/) |
+| 2026-04-26 | Visual Compositional Tuning | MLLM, visual instruction tuning, synthetic data, COMPACT | [note](papers/2025/2504.21850-compact/) |
+| 2026-04-26 | AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning | MLLM, tool use, trajectory data, RL | [note](papers/2026/2601.18631-adareasoner/) |
+| 2026-04-26 | BaseReward: A Strong Baseline for Multimodal Reward Model | MLLM, reward model, preference data, alignment | [note](papers/2025/2509.16127-basereward/) |
+| 2026-04-26 | Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs | MLLM, dataset, data curation, CoT | [note](papers/2025/2510.13795-bee/) |
 | 2026-04-21 | Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities | data selection, influence, balanced learning | [note](papers/2025/2501.12147-bids/) |
 | 2026-04-21 | Diversity Measurement and Subset Selection for Instruction Tuning Datasets | data selection, diversity, DPP | [note](papers/2024/2402.02318-dpp-diversity/) |
 | 2026-04-21 | GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning | data selection, reinforcement learning, gradient alignment | [note](papers/2026/2602.21492-gradalign/) |

@@ -1,0 +1,27 @@
+title: "Visual Compositional Tuning"
+arxiv_id: "2504.21850"
+version: "v2"
+year: 2025
+venue: "ICLR 2026"
+authors:
+  - Xindi Wu
+  - Hee Seung Hwang
+  - Polina Kirichenko
+  - Esin Tureci
+  - Olga Russakovsky
+tags:
+  - mllm
+  - visual-instruction-tuning
+  - data-curation
+  - synthetic-data
+  - compositionality
+  - compact
+read_date: "2026-04-26"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2504.21850v2"
+  openreview: "https://openreview.net/forum?id=073WQjmWKU"
+  alphaxiv: "https://www.alphaxiv.org/abs/2504.21850"
+  project: "https://princetonvisualai.github.io/compact/"
+  earlier_openreview: "https://openreview.net/forum?id=kfynvrcC0L"

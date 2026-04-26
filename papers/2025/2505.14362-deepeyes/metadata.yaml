@@ -1,0 +1,28 @@
+title: "DeepEyes: Incentivizing \"Thinking with Images\" via Reinforcement Learning"
+arxiv_id: "2505.14362"
+version: "v3"
+year: 2025
+venue: "ICLR 2026"
+authors:
+  - Ziwei Zheng
+  - Michael Yang
+  - Jack Hong
+  - Chenxiao Zhao
+  - Guohai Xu
+  - Le Yang
+  - Chao Shen
+  - Xing Yu
+tags:
+  - mllm
+  - reinforcement-learning
+  - active-perception
+  - data-curation
+  - visual-reasoning
+read_date: "2026-04-26"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2505.14362v3"
+  openreview: "https://openreview.net/forum?id=xUyMXkI958"
+  alphaxiv: "https://www.alphaxiv.org/overview/2505.14362v2"
+  code: "https://github.com/Visual-Agent/DeepEyes"

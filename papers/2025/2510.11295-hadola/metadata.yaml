@@ -1,0 +1,28 @@
+title: "Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering"
+arxiv_id: "2510.11295"
+version: "v2"
+year: 2025
+venue: "ICLR 2026"
+authors:
+  - Jian Lan
+  - Zhicheng Liu
+  - Udo Schlegel
+  - Raoyuan Zhao
+  - Yihong Liu
+  - Hinrich Schuetze
+  - Michael A. Hedderich
+  - Thomas Seidl
+tags:
+  - mllm
+  - vqa
+  - data-selection
+  - human-uncertainty
+  - calibration
+  - automatic-labeling
+read_date: "2026-04-26"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2510.11295v2"
+  openreview: "https://openreview.net/forum?id=LuZjiUNuFL"
+  alphaxiv: "https://www.alphaxiv.org/overview/2510.11295/metadatav2"

@@ -1,0 +1,34 @@
+title: "BaseReward: A Strong Baseline for Multimodal Reward Model"
+arxiv_id: "2509.16127"
+version: "v1"
+year: 2025
+venue: "ICLR 2026"
+authors:
+  - Yi-Fan Zhang
+  - Haihua Yang
+  - Huanyu Zhang
+  - Yang Shi
+  - Zezhou Chen
+  - Haochen Tian
+  - Chaoyou Fu
+  - Kai Wu
+  - Bo Cui
+  - Xu Wang
+  - Jianfei Pan
+  - Haotian Wang
+  - Zhang Zhang
+  - Liang Wang
+tags:
+  - mllm
+  - reward-model
+  - preference-data
+  - data-curation
+  - rlhf
+  - alignment
+read_date: "2026-04-26"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2509.16127v1"
+  openreview: "https://openreview.net/forum?id=EuN5iszF0a"
+  alphaxiv: "https://www.alphaxiv.org/?organizations=NLPR%2C+CASIA"

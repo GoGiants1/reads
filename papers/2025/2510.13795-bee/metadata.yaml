@@ -1,0 +1,31 @@
+title: "Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs"
+arxiv_id: "2510.13795"
+version: "v4"
+year: 2025
+venue: "ICLR 2026"
+authors:
+  - Yi Zhang
+  - Bolin Ni
+  - Xin-Sheng Chen
+  - Heng-Rui Zhang
+  - Yongming Rao
+  - Houwen Peng
+  - Qinglin Lu
+  - Han Hu
+  - Meng-Hao Guo
+  - Shi-Min Hu
+tags:
+  - mllm
+  - dataset
+  - data-curation
+  - cot
+  - fully-open
+  - supervised-finetuning
+read_date: "2026-04-26"
+language: ko
+status: summarized
+links:
+  arxiv: "https://arxiv.org/abs/2510.13795v4"
+  openreview: "https://openreview.net/forum?id=IVluwK8q9q"
+  alphaxiv: "https://www.alphaxiv.org/hi/overview/2510.13795v3"
+  project: "https://open-bee.github.io"
